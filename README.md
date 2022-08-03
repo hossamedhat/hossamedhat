@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Hossam Medhat
 - 👀 I’m interested in Android developer and AI.
 - 🌱 I’m currently learning Flutter and Backend.
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/hossam-medhat-03a559220/) , <li class="task_item history_item item_110881999 indent_1" id="item_110881999">
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/hossam-medhat-03a559220/) 
+
+
+<li class="task_item history_item item_110881999 indent_1" id="item_110881999">
   <table>
     <tbody>
       <tr>
