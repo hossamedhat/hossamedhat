@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Hossam Medhat
 - 👀 I’m interested in Android developer and AI.
 - 🌱 I’m currently learning Flutter and Backend.
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/hossam-medhat-03a559220/) , <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/0/#inbox">Gmail</a>.
-
-<li class="task_item history_item item_110881999 indent_1" id="item_110881999">
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/hossam-medhat-03a559220/) , <li class="task_item history_item item_110881999 indent_1" id="item_110881999">
   <table>
     <tbody>
       <tr>
@@ -13,7 +11,7 @@
           </div>
         </td>
         <td class="content">
-          <span class="date empty"></span><span>send Douglas a summary of your <img width="16" class="cmp_email_on" src="https://d3ptyyxy2at9ui.cloudfront.net/76084e29cb2cf72b320e888edc583dfb.gif"> <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb">Web Migrations for this weekend</a><span class="clickable note_icon" style="visibility: hidden;"><img width="15" height="14" src="https://d3ptyyxy2at9ui.cloudfront.net/76084e29cb2cf72b320e888edc583dfb.gif" class="cmp_note clickable"></span></span>
+          <span class="date empty"></span><span>send Douglas a summary of your <img width="16" class="cmp_email_on" src="https://d3ptyyxy2at9ui.cloudfront.net/76084e29cb2cf72b320e888edc583dfb.gif"> <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/0/#inbox">Web Migrations for this weekend</a><span class="clickable note_icon" style="visibility: hidden;"><img width="15" height="14" src="https://d3ptyyxy2at9ui.cloudfront.net/76084e29cb2cf72b320e888edc583dfb.gif" class="cmp_note clickable"></span></span>
           <div></div>
         </td>
       </tr>
