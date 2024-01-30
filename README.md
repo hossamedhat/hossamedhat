@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hossam Medhet</h1>
-<h3 align="center">A mobile developer from Egypt</h3>
+
+<h3 align="center">Mobile App Developer | Flutter @ AMH Group Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamedhat&label=Profile%20views&color=0e75b6&style=flat" alt="hossamedhat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamedhat" alt="hossamedhat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
+- :school: I am a `Computer Science engineer` from the Faculty of Computers & Artificial Intelligence -
+BFCAI at Benha University
 - 🔭 I’m currently working at **AMH Group Technology**
-
 - 🌱 I’m currently learning **Flutter and IOS**
-
 - 📫 How to reach me **hossammedhat2000@gmail.com**
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best 
+
+<br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
