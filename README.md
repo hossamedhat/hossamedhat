@@ -39,12 +39,13 @@ BFCAI at Benha University
 <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img height="230px" src="https://github-readme-stats.vercel.app/api?username=hossamedhat&show_icons=true&count_private=true&theme=tokyonigh&locale=en&layout=compact" alt="hossamedhat" /></a>
+	    <img height="230px" src="https://github-readme-stats.vercel.app/api?username=hossamedhat&show_icons=true&count_private=true&theme=tokyonight&locale=en&layout=compact" alt="hossamedhat" /></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamedhat&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hossamedhat" height="230px"/>
 <br/>
 
 
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 
 
