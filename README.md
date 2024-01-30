@@ -33,9 +33,19 @@ BFCAI at Benha University
 
 ## 📊 Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamedhat&show_icons=true&locale=en&layout=compact" alt="hossamedhat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossamedhat&show_icons=true&locale=en" alt="hossamedhat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossamedhat&theme=tokyonight_duo" alt="hossamedhat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossamedhat&" alt="hossamedhat" /></p>
+<br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img height="230px" src="https://github-readme-stats.vercel.app/api?username=hossamedhat&show_icons=true&count_private=true&theme=tokyonigh&locale=en&layout=compact" alt="hossamedhat" /></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossamedhat&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hossamedhat" height="230px"/>
+<br/>
+
+
+
+
+
+
 
