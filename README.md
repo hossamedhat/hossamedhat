@@ -34,7 +34,7 @@ BFCAI at Benha University
 ## 📊 Github Stats
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossamedhat&theme=tokyonight_duo" alt="hossamedhat" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossamedhat&theme=tokyonight_duo" alt="hossamedhat" /></p>
 
 <br/>
   <p align="center">
