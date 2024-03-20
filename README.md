@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossam Medhet</h1>
 
-<h3 align="center">Mobile App Developer | Flutter @ AMH Group Technology</h3>
+<h3 align="center">Mobile App Developer | Flutter @ AMHZ Group International Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamedhat&label=Profile%20views&color=0e75b6&style=flat" alt="hossamedhat" /> </p>
 
