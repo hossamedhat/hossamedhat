@@ -6,6 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamedhat" alt="hossamedhat" /></a> </p>
 
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
 
 - :school: I am a `Computer Science Engineer` from the Faculty of Computers & Artificial Intelligence -
 BFCAI at Benha University
@@ -43,7 +46,4 @@ BFCAI at Benha University
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-
-
 
