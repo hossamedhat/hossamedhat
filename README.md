@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamedhat" alt="hossamedhat" /></a> </p>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamedhat&label=Profile%20views&color=0e75b6&style=flat" alt="hossamedhat" /> </p>
 - :school: I am a `Computer Science Engineer` from the Faculty of Computers & Artificial Intelligence -
 BFCAI at Benha University
 - 🔭 I’m currently working at **Rowad Technology Solution**
